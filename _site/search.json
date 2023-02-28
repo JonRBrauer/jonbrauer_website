@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Jon Brauer",
+    "section": "",
+    "text": "I am an Associate Professor and Director of Undergraduate Studies in the Department of Criminal Justice at Indiana University Bloomington. I received my Ph.D. in Sociology from the Department of Sociology and Anthropology at North Carolina State University in 2011.\nIn my research, I often aim to understand how our social environments affect the ways that we think and behave. I am especially curious about how conflict or coercion in social experiences (e.g., controlling parenting; racial discrimination; problematic encounters with police) might affect how we think, how interact with others, and who we are (i.e., our identities). For instance, coercive experiences might erode our sense of trust in others, weaken our social relationships, undermine our moral beliefs, compromise our mental health, and encourage us to comply with social rules - or to break them.\nIn my recent and current projects, I rely on Bayesian modeling techniques, and I explore ways to improve the utility and reproducibility of statistical practices that are normally adopted in our field.\nIf you read my work, you may notice that I frequently collect new or “primary” data. This is because our scientific explanations (theories) about human behavior imply the existence of specific causal mechanisms, but existing data sources do not always contain good measures of those mechanisms. In primary data collection, we can attempt to more directly measure theoretical mechanisms and then more convincingly test causal claims.\nAdditionally, I especially enjoy collecting data from people in international locations that are rarely studied by US researchers. International data allow us to really test whether our scientific explanations about human behavior actually work (generalize) in the ways that we think they do for people living in social environments that are different from our own. Likewise, with the help of many talented collaborators, I have collected data from diverse local and international populations, including adults in Bangladesh, Serbia, and Ukraine, restaurant servers and customers across the U.S., college students at Southern and Midwestern universities, and adults in the US who participate in online panels (e.g., MTurk; Prolific).\nYou can find some of my collaborative research published in crime-related journals like Criminology; Journal of Criminal Justice; Journal of Quantitative Criminology; Journal of Research in Crime & Delinquency; and Justice Quarterly. You can also find some of it published in interdisciplinary social science journals like Journal of Research on Adolescence; Sociological Methods and Research; Social Forces; and Social Networks. Additionally, some of it has been summarized the Pacific Standard, The Conversation, The Society Pages, and local ABC news.\nI regularly teach undergraduate and graduate students about scientific theories, research methods, and data analytic techniques. I typically teach undergraduate courses about theories of crime, deviance, and social control (CJUS P200 & P305) and undergraduate statistics (CJUS K300) at Indiana University Bloomington. I regularly teach graduates about theory construction and analysis (CJUS P502), and I have taught additional topical or independent study courses on replication and reproducibility in the social sciences (CJUS P680), on the foundations of mediation and moderation analyses (P599), and about how to teach undergraduate statistics using R/RMarkdown (P599)."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Jon Brauer",
+    "section": "Education",
+    "text": "Education\nNorth Carolina State University | Raleigh, NC | PhD in Sociology | 2011\nNorth Carolina State University | Raleigh, NC | M.S. in Sociology | 2007\nRockford College | Rockford, IL | B.S. in Sociology and Anthropology | 2003"
+  },
+  {
+    "objectID": "about.html#academic-experience",
+    "href": "about.html#academic-experience",
+    "title": "Jon Brauer",
+    "section": "Academic Experience",
+    "text": "Academic Experience\nIndiana University Bloomington | Associate Professor | August 2019 - present\nIndiana University Bloomington | Assistant Professor | August 2016 - July 2019\nUniversity of Nebraska Omaha | Assistant Professor | August 2011 - July 2016"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jon Brauer",
+    "section": "",
+    "text": "I am an Associate Professor and Director of Undergraduate Studies in the Department of Criminal Justice at Indiana University Bloomington. Here is my CV."
+  }
+]
