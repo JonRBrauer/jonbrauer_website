@@ -2,7 +2,7 @@
 title: "Jon Brauer"
 about:
   template: jolla
-  image: brauer_hspencil.jpg
+  image: brauer_hspencil2.jpg
   links:
     - icon: twitter
       text: twitter
