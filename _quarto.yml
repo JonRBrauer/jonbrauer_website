@@ -11,6 +11,8 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
+      - text: "Course Materials"
+        href: course-materials.qmd
   twitter-card: true
 
 format:
