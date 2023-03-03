@@ -163,15 +163,15 @@ BPW's chapter 10 focused on null hypothesis tests to make inferences about the e
 :::: columns
 
 ::: {.column width="35%"}
-![](ugrad-stats_Rassign/Images/Assign11_SS1_corrscatter.jpg)
+![](ugrad-stats_Rassign/Images/nocorr.gif)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="60%"}
-### [Assignment 11: Correlation & Regression](ADD_FILE)
-Stay tuned - coming soon.
+### [Assignment 11: Correlation & Regression](ugrad-stats_Rassign/Assignment_11_JRB.html)
+BPW’s chapter 12 focused on describing the association between two continuous numeric variables using a scatterplot, Pearson’s correlation coefficient, and an ordinary least-squared (OLS) linear regression model. Additionally, the chapter introduced t-value statistics that can be used to test the null hypothesis of no association (r=0 and b=0) in the population from which the sample was randomly drawn. Likewise, in this assignment, you will learn how to estimate the strength of a linear association between two numeric variables by calculating Pearson’s correlation coefficient (r) and predict expected values of a dependent variable (Y) from the values of a linearly correlated predictor variable (X) using a linear regression model. Additionally, you will learn to visualize the association with a scatterplot and be introduced to some tools for checking model assumptions and assessing the fit of your regression model to the data.
 :::
 ::::
 
