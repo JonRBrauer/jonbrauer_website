@@ -4,4 +4,5 @@ listing:
   contents: course-materials
 ---
 
-This is a temporary centralized location to place various course materials for sharing purposes. Eventually, these materials will be transitioned to a different website (i.e., my collaborative blog with Jake Day).  
+If you are searching for course materials that were previously accessible at this site, they are still available at the [Reluctant Criminologists](https://reluctantcriminologists.com/), a collaborative website that I co-author with [Jake Day](https://www.jacobcday.com/). 
+ 

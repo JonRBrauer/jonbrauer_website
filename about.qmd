@@ -3,8 +3,11 @@ title: "Jon Brauer"
 about:
   template: solana
   links:
+    - icon: collection
+      text: Blog
+      href: https://reluctantcriminologists.com/
     - icon: twitter
-      text: twitter
+      text: Twitter
       href: https://twitter.com/realjonbrauer
     - icon: github
       text: Github
@@ -17,7 +20,7 @@ about:
       href: https://www.linkedin.com/in/jonathan-brauer-6722b1a3/
     - icon: fa-envelope 
       text: Email
-      href: mailto:jrbrauer817@gmail.com---
+      href: mailto:jrbrauer817@gmail.com
 ---
 
 I am an Associate Professor and Director of Undergraduate Studies in the [Department of Criminal Justice](https://criminaljustice.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/). I received my Ph.D. in Sociology from the [Department of Sociology and Anthropology](https://socant.chass.ncsu.edu/) at North Carolina State University in 2011. 
@@ -32,7 +35,9 @@ Additionally, I especially enjoy collecting data from people in international lo
 
 You can find some of my collaborative research published in crime-related journals like *Criminology*; *Journal of Criminal Justice*; *Journal of Quantitative Criminology*; *Journal of Research in Crime & Delinquency*; and *Justice Quarterly*. You can also find some of it published in interdisciplinary social science journals like *Journal of Research on Adolescence*; *Sociological Methods and Research*; *Social Forces*; and *Social Networks.* Additionally, some of it has been summarized the [Pacific Standard](https://psmag.com/social-justice/working-moms-the-kids-are-all-right-40102#.umpx21fny), [The Conversation](https://theconversation.com/can-we-teach-restaurant-servers-to-treat-all-customers-equally-regardless-of-race-42865), [The Society Pages](https://thesocietypages.org/discoveries/2015/08/12/reducing-murder-rates/), and local [ABC news](https://www.ketv.com/article/link-between-head-injuries-and-criminal-behavior/12104106).
 
-I regularly teach undergraduate and graduate students about scientific theories, research methods, and data analytic techniques. I typically teach undergraduate courses about theories of crime, deviance, and social control (CJUS P200 & P305) and undergraduate statistics (CJUS K300) at Indiana University Bloomington. I regularly teach graduates about theory construction and analysis (CJUS P502), and I have taught additional topical or independent study courses on replication and reproducibility in the social sciences (CJUS P680), on the foundations of mediation and moderation analyses (P599), and about how to teach undergraduate statistics using R/RMarkdown (P599).     
+I regularly teach undergraduate and graduate students about scientific theories, research methods, and data analytic techniques. I typically teach undergraduate courses about theories of crime, deviance, and social control (CJUS P200 & P305) and undergraduate statistics (CJUS K300) at Indiana University Bloomington. I regularly teach graduates about theory construction and analysis (CJUS P502), and I have taught additional topical or independent study courses on replication and reproducibility in the social sciences (CJUS P680), on the foundations of mediation and moderation analyses (P599), and about how to teach undergraduate statistics using R/RMarkdown (P599).
+
+You can find some of my course materials and blog entries at the [Reluctant Criminologists](https://reluctantcriminologists.com/), a collaborative website that I co-author with [Jake Day](https://www.jacobcday.com/). 
 
 ## Education
 

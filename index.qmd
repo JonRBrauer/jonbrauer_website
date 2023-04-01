@@ -4,6 +4,9 @@ about:
   template: jolla
   image: brauer_hspencil2.jpg
   links:
+    - icon: collection
+      text: Blog
+      href: https://reluctantcriminologists.com/
     - icon: twitter
       text: twitter
       href: https://twitter.com/realjonbrauer
@@ -22,3 +25,6 @@ about:
 ---
 
 I am an Associate Professor and Director of Undergraduate Studies in the Department of Criminal Justice at Indiana University Bloomington. Here is my [CV](jrbrauer_cv_2023.01.13.pdf).
+
+You can find some of my course materials and blog entries at the [Reluctant Criminologists](https://reluctantcriminologists.com/), a collaborative website that I co-author with [Jake Day](https://www.jacobcday.com/). 
+
