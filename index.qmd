@@ -4,22 +4,22 @@ about:
   template: jolla
   image: brauer_hspencil2.jpg
   links:
-    - icon: collection
+    - icon: journal-code
       text: Blog
       href: https://reluctantcriminologists.com/
     - icon: twitter
-      text: twitter
+      text: Twitter
       href: https://twitter.com/realjonbrauer
     - icon: github
       text: Github
       href: https://github.com/JonRBrauer
-    - icon: ai-google-scholar
+    - icon: mortarboard-fill
       text: Google Scholar
       href: https://scholar.google.com/citations?user=41mC2ZcAAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jonathan-brauer-6722b1a3/
-    - icon: fa-envelope 
+    - icon: envelope-fill 
       text: Email
       href: mailto:jrbrauer817@gmail.com---
 ---
